@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EjayCinchez
-- 👀 I’m interested in ...
+- 👀 I’m interested in software development/programming
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on c# .net core
 - 📫 Reach me thru my email address : edgarjaycinchez@gmail.com
 
 <!---
