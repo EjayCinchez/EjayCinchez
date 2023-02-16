@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EjayCinchez
 - 👀 I’m interested in software development/programming
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently working ASP.NET MVC Projects (Booking system, Hospital System, HR System and Molecular Laboratory System)
+- 🌱 I'm currently learning Data Analytics
 - 💞️ I’m looking to collaborate on c# .net core
 - 📫 Reach me thru my email address : edgarjaycinchez@gmail.com
 
